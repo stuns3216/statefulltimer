@@ -1,0 +1,32 @@
+.dynamic {
+    color: blueviolet;
+    display: flex;
+    justify-content: center;
+  }
+  .time {
+      border: 5px solid aqua;
+    display: flex;
+    flex-direction: column;
+  }
+  .dynamicspan {
+    font-size: 30px;
+    margin: 10px;
+    font-weight: bold;
+  }
+  .staticspan {
+    margin: 10px;
+    color:black;
+  }
+  .btn{
+    background-color: transparent;
+    border-radius: 5px;
+    border: 1px solid purple;
+    color:purple;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin-left:10px
+  
+  }
